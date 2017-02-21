@@ -37,7 +37,7 @@ var filterList = {
   			 filter: '.filter'	
   		},
   		load: {
-    		filter: '.project, .research, .involvement, .artwork' // show app tab on first load
+    		filter: '.project, .experience, .volunteer'// show app tab on first load
     	}     
 		});								
 	}

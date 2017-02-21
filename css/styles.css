@@ -1,4 +1,7 @@
 
+
+
+
 /*-------------- 
 mixitup
 --------------*/ 
@@ -7,7 +10,7 @@ mixitup
 }
 .mix-container { 
   padding: 25px 0;
-  color: #fff;
+  color: #000;
   font-weight: lighter;
   font-family: Helvetica, Raleway, Georgia
   background-color: transparent !important;
@@ -42,7 +45,7 @@ mixitup
   margin-bottom: 3em;
   padding:0;
   list-style:none;
-  color: #9E9E9E;
+  color: #000;
 }
 
 #filters li {
@@ -117,7 +120,7 @@ mixitup
 }
 
 .portfolio .label-text {
-  color:#9E9E9E;
+  color:#000;
   position: relative;
   z-index:500;
   padding:5px 8px;
@@ -135,6 +138,9 @@ mixitup
   top:-30px;
 }  
 
+.mix-container .row h1 {
+  color: black;
+}
 
 
 
