@@ -28,10 +28,26 @@
 }
 
 #contact {
-  position: absolute;
-  display: block;
-  text-align: left;
-  width: 70%;
-  margin: 0 15% 0 15%;
+	position: absolute;
+	display: block;
+	text-align: left;
+	width: 70%;
+	margin: 0 15% 0 15%;
 }
+
+footer .wrap {
+	position: absolute;
+  	display: block;
+  	text-align: left;
+  	width: 70%;
+  	margin: 0 15% 0 -20%;
+}
+
+
+
+
+
+
+
+
 
